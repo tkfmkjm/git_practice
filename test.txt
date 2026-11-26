@@ -1,3 +1,2 @@
-Hello, world.
-This is test.
+Hello, world!
 Apple.
